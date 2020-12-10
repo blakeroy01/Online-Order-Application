@@ -160,3 +160,929 @@ Processing by DashboardsController#create as HTML
 Completed 200 OK in 37ms (Views: 36.7ms | ActiveRecord: 0.0ms | Allocations: 5346)
 
 
+Started GET "/" for ::1 at 2020-12-08 16:03:01 -0500
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.8ms | Allocations: 210)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 70ms (Views: 67.9ms | ActiveRecord: 0.0ms | Allocations: 9060)
+
+
+Started GET "/" for ::1 at 2020-12-08 16:03:03 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 5)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms | Allocations: 4312)
+
+
+Started GET "/" for ::1 at 2020-12-10 10:53:37 -0500
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.5ms | Allocations: 90)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 38ms (Views: 37.9ms | ActiveRecord: 0.0ms | Allocations: 5232)
+
+
+Started GET "/" for ::1 at 2020-12-10 10:59:06 -0500
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 92)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 37ms (Views: 36.7ms | ActiveRecord: 0.0ms | Allocations: 5306)
+
+
+Started GET "/" for ::1 at 2020-12-10 10:59:15 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 94)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 37ms (Views: 36.1ms | ActiveRecord: 0.0ms | Allocations: 5313)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:04:06 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.4ms | Allocations: 99)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in C:/Users/Blake/code/Online-Order-Application/public/packs
+[Webpacker] Hash: 15d1bb7b54cf6326b9ba
+Version: webpack 4.44.2
+Time: 1503ms
+Built at: 12/10/2020 11:04:10 AM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-9afcbb5693aa87623e69.js    124 KiB  application  [emitted] [immutable]  application
+js/application-9afcbb5693aa87623e69.js.map    139 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-9afcbb5693aa87623e69.js js/application-9afcbb5693aa87623e69.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+Completed 200 OK in 3913ms (Views: 3912.3ms | ActiveRecord: 0.0ms | Allocations: 7936)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:04:52 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 94)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 37ms (Views: 36.2ms | ActiveRecord: 0.0ms | Allocations: 5365)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:05:48 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 5)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 112ms (Views: 111.7ms | ActiveRecord: 0.0ms | Allocations: 29832)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:05:55 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 34ms (Views: 33.9ms | ActiveRecord: 0.0ms | Allocations: 6310)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:05:56 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 37ms (Views: 36.8ms | ActiveRecord: 0.0ms | Allocations: 6319)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:10:02 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+C:\Users\Blake\code\Online-Order-Application\config\webpack\environment.js:6
+  Popper: ['popper.js, 'default']
+                        ^^^^^^^
+
+SyntaxError: Unexpected token 'default'
+    at new Script (vm.js:88:7)
+    at NativeCompileCache._moduleCompile (C:\Users\Blake\code\Online-Order-Application\node_modules\v8-compile-cache\v8-compile-cache.js:240:18)
+    at Module._compile (C:\Users\Blake\code\Online-Order-Application\node_modules\v8-compile-cache\v8-compile-cache.js:184:36)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (C:\Users\Blake\code\Online-Order-Application\node_modules\v8-compile-cache\v8-compile-cache.js:159:20)
+    at Object.<anonymous> (C:\Users\Blake\code\Online-Order-Application\config\webpack\development.js:3:21)
+    at Module._compile (C:\Users\Blake\code\Online-Order-Application\node_modules\v8-compile-cache\v8-compile-cache.js:192:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (C:\Users\Blake\code\Online-Order-Application\node_modules\v8-compile-cache\v8-compile-cache.js:159:20)
+    at WEBPACK_OPTIONS (C:\Users\Blake\code\Online-Order-Application\node_modules\webpack-cli\bin\utils\convert-argv.js:114:13)
+    at requireConfig (C:\Users\Blake\code\Online-Order-Application\node_modules\webpack-cli\bin\utils\convert-argv.js:116:6)
+    at C:\Users\Blake\code\Online-Order-Application\node_modules\webpack-cli\bin\utils\convert-argv.js:123:17
+    at Array.forEach (<anonymous>)
+    at module.exports (C:\Users\Blake\code\Online-Order-Application\node_modules\webpack-cli\bin\utils\convert-argv.js:121:15)
+    at C:\Users\Blake\code\Online-Order-Application\node_modules\webpack-cli\bin\cli.js:71:45
+    at Object.parse (C:\Users\Blake\code\Online-Order-Application\node_modules\yargs\yargs.js:576:18)
+    at C:\Users\Blake\code\Online-Order-Application\node_modules\webpack-cli\bin\cli.js:49:8
+    at Object.<anonymous> (C:\Users\Blake\code\Online-Order-Application\node_modules\webpack-cli\bin\cli.js:366:3)
+    at Module._compile (internal/modules/cjs/loader.js:1158:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1178:10)
+    at Module.load (internal/modules/cjs/loader.js:1002:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:901:14)
+    at Module.require (internal/modules/cjs/loader.js:1044:19)
+    at require (internal/modules/cjs/helpers.js:77:18)
+
+Completed 200 OK in 1832ms (Views: 1831.5ms | ActiveRecord: 0.0ms | Allocations: 8793)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:10:12 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 33ms (Views: 33.0ms | ActiveRecord: 0.0ms | Allocations: 6309)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:10:32 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 34ms (Views: 33.4ms | ActiveRecord: 0.0ms | Allocations: 6317)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:10:35 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.0ms | Allocations: 6319)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:14:41 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 34ms (Views: 33.9ms | ActiveRecord: 0.0ms | Allocations: 6304)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:15:56 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in C:/Users/Blake/code/Online-Order-Application/public/packs
+[Webpacker] Hash: e195f5235d06950e2829
+Version: webpack 4.44.2
+Time: 2595ms
+Built at: 12/10/2020 11:16:00 AM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-652c8c2fad0839dd16fb.js    651 KiB  application  [emitted] [immutable]  application
+js/application-652c8c2fad0839dd16fb.js.map    764 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-652c8c2fad0839dd16fb.js js/application-652c8c2fad0839dd16fb.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 771 bytes {application} [built]
+[./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 905 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 6 hidden modules
+
+Completed 200 OK in 4611ms (Views: 4610.9ms | ActiveRecord: 0.0ms | Allocations: 8881)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:18:03 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 216ms (Views: 215.3ms | ActiveRecord: 0.0ms | Allocations: 38509)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:21:33 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 208ms (Views: 207.8ms | ActiveRecord: 0.0ms | Allocations: 41428)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:22:51 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 213ms (Views: 212.7ms | ActiveRecord: 0.0ms | Allocations: 45153)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:23:07 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 219ms (Views: 218.2ms | ActiveRecord: 0.0ms | Allocations: 45678)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:23:58 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 223ms (Views: 222.9ms | ActiveRecord: 0.0ms | Allocations: 45676)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:26:01 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 98)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 215ms (Views: 215.0ms | ActiveRecord: 0.0ms | Allocations: 47176)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:28:16 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 98)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 500 Internal Server Error in 81ms (ActiveRecord: 0.0ms | Allocations: 11364)
+
+
+  
+ActionView::Template::Error (Missing partial layouts/_navigation with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :jbuilder]}. Searched in:
+  * "C:/Users/Blake/code/Online-Order-Application/app/views"
+  * "C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/actiontext-6.0.3.4/app/views"
+  * "C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/actionmailbox-6.0.3.4/app/views"
+):
+    10:   </head>
+    11: 
+    12:   <body>
+    13:     <%= render 'layouts/navigation' %>
+    14:     <%= yield %>
+    15:   </body>
+    16: </html>
+  
+app/views/layouts/application.html.erb:13
+app/controllers/dashboards_controller.rb:4:in `create'
+Started GET "/" for ::1 at 2020-12-10 11:29:44 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.4ms | Allocations: 93)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 118)
+Completed 200 OK in 44ms (Views: 43.1ms | ActiveRecord: 0.0ms | Allocations: 7990)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:29:47 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms | Allocations: 6678)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:29:48 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 34ms (Views: 33.9ms | ActiveRecord: 0.0ms | Allocations: 6670)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:29:50 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 6678)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:29:52 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.0ms | Allocations: 6674)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:29:54 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms | Allocations: 6676)
+
+
+Started GET "/" for ::1 at 2020-12-10 11:29:55 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 38ms (Views: 37.9ms | ActiveRecord: 0.0ms | Allocations: 6665)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:18:57 -0500
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.4ms | Allocations: 106)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 115)
+Completed 200 OK in 41ms (Views: 40.7ms | ActiveRecord: 0.0ms | Allocations: 7951)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:20:19 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.4ms | Allocations: 103)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 120)
+Completed 200 OK in 45ms (Views: 44.7ms | ActiveRecord: 0.0ms | Allocations: 7956)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:22:03 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 103)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 216ms (Views: 215.3ms | ActiveRecord: 0.0ms | Allocations: 46643)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:22:34 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 103)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 120)
+Completed 200 OK in 46ms (Views: 45.3ms | ActiveRecord: 0.0ms | Allocations: 7949)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:29:01 -0500
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 240ms (Views: 239.3ms | ActiveRecord: 0.0ms | Allocations: 47325)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:30:07 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+Completed 500 Internal Server Error in 57ms (ActiveRecord: 0.0ms | Allocations: 18384)
+
+
+  
+ActionView::Template::Error (Error: Invalid CSS after "...ground-position": expected "}", was ": center center;"
+        on line 23:3 of app/assets/stylesheets/custom.css.scss
+>>   background-position: center center;
+
+   --^
+):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/custom.css.scss:23
+app/views/layouts/application.html.erb:8
+app/controllers/dashboards_controller.rb:4:in `create'
+Started GET "/" for ::1 at 2020-12-10 14:30:24 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+Completed 500 Internal Server Error in 53ms (ActiveRecord: 0.0ms | Allocations: 18383)
+
+
+  
+ActionView::Template::Error (Error: Invalid CSS after "...ground-position": expected "}", was ": center;"
+        on line 23:3 of app/assets/stylesheets/custom.css.scss
+>>   background-position: center;
+
+   --^
+):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/custom.css.scss:23
+app/views/layouts/application.html.erb:8
+app/controllers/dashboards_controller.rb:4:in `create'
+Started GET "/" for ::1 at 2020-12-10 14:30:35 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 227ms (Views: 226.4ms | ActiveRecord: 0.0ms | Allocations: 47085)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:31:50 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 221ms (Views: 221.0ms | ActiveRecord: 0.0ms | Allocations: 47421)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:32:21 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.4ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 120)
+Completed 200 OK in 221ms (Views: 221.1ms | ActiveRecord: 0.0ms | Allocations: 49937)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:34:36 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 103)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 42ms (Views: 41.2ms | ActiveRecord: 0.0ms | Allocations: 7896)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:34:47 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 40ms (Views: 40.1ms | ActiveRecord: 0.0ms | Allocations: 8359)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:34:55 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 103)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 115)
+Completed 200 OK in 42ms (Views: 42.0ms | ActiveRecord: 0.0ms | Allocations: 8349)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:36:09 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 103)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 41ms (Views: 40.7ms | ActiveRecord: 0.0ms | Allocations: 8341)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:36:29 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 103)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 115)
+Completed 200 OK in 43ms (Views: 42.8ms | ActiveRecord: 0.0ms | Allocations: 8357)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:36:39 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.4ms | Allocations: 102)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 41ms (Views: 41.0ms | ActiveRecord: 0.0ms | Allocations: 8346)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:40:26 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 113)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 42ms (Views: 41.9ms | ActiveRecord: 0.0ms | Allocations: 8362)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:45:30 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.4ms | Allocations: 107)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 120)
+Completed 200 OK in 226ms (Views: 225.4ms | ActiveRecord: 0.0ms | Allocations: 50009)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:45:47 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 118)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 41ms (Views: 40.3ms | ActiveRecord: 0.0ms | Allocations: 8373)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:45:58 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 114)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 41ms (Views: 40.4ms | ActiveRecord: 0.0ms | Allocations: 8352)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:46:30 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 107)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 41ms (Views: 40.4ms | ActiveRecord: 0.0ms | Allocations: 8349)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:46:51 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 107)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 120)
+Completed 200 OK in 47ms (Views: 46.1ms | ActiveRecord: 0.0ms | Allocations: 8362)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:48:24 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 216ms (Views: 216.0ms | ActiveRecord: 0.0ms | Allocations: 49063)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:48:27 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms | Allocations: 7073)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:49:03 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 114)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 115)
+Completed 200 OK in 42ms (Views: 41.9ms | ActiveRecord: 0.0ms | Allocations: 8366)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:51:02 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 223ms (Views: 222.8ms | ActiveRecord: 0.0ms | Allocations: 48308)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:51:57 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 114)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 51ms (Views: 50.6ms | ActiveRecord: 0.0ms | Allocations: 8362)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:52:34 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 111)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 52ms (Views: 51.1ms | ActiveRecord: 0.0ms | Allocations: 8370)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:52:56 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 34ms (Views: 34.0ms | ActiveRecord: 0.0ms | Allocations: 7088)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:56:30 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.5ms | Allocations: 116)
+Completed 200 OK in 41ms (Views: 41.1ms | ActiveRecord: 0.0ms | Allocations: 8346)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:58:38 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 116)
+Completed 200 OK in 41ms (Views: 40.1ms | ActiveRecord: 0.0ms | Allocations: 8342)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:58:55 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 116)
+Completed 200 OK in 40ms (Views: 40.1ms | ActiveRecord: 0.0ms | Allocations: 8346)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:59:06 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 121)
+Completed 200 OK in 46ms (Views: 45.2ms | ActiveRecord: 0.0ms | Allocations: 8359)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:59:12 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 7083)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:59:17 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 41ms (Views: 40.2ms | ActiveRecord: 0.0ms | Allocations: 8358)
+
+
+Started GET "/" for ::1 at 2020-12-10 14:59:35 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 116)
+Completed 200 OK in 42ms (Views: 41.8ms | ActiveRecord: 0.0ms | Allocations: 8348)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:05:09 -0500
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 117)
+Completed 200 OK in 42ms (Views: 41.5ms | ActiveRecord: 0.0ms | Allocations: 8349)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:06:58 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.4ms | Allocations: 105)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 121)
+Completed 200 OK in 47ms (Views: 46.8ms | ActiveRecord: 0.0ms | Allocations: 8355)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:08:55 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 109)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 115)
+Completed 200 OK in 41ms (Views: 40.8ms | ActiveRecord: 0.0ms | Allocations: 8362)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:09:23 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 112)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 115)
+Completed 200 OK in 42ms (Views: 41.7ms | ActiveRecord: 0.0ms | Allocations: 8356)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:09:47 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 115)
+Completed 200 OK in 42ms (Views: 42.0ms | ActiveRecord: 0.0ms | Allocations: 8354)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:13:00 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.6ms | Allocations: 209)
+Completed 200 OK in 41ms (Views: 40.9ms | ActiveRecord: 0.0ms | Allocations: 8442)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:13:09 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/menu"):
+  
+actionpack (6.0.3.4) lib/action_dispatch/middleware/debug_exceptions.rb:36:in `call'
+web-console (4.1.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.1.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.0.3.4) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.0.3.4) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.0.3.4) lib/active_support/tagged_logging.rb:80:in `block in tagged'
+activesupport (6.0.3.4) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (6.0.3.4) lib/active_support/tagged_logging.rb:80:in `tagged'
+railties (6.0.3.4) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.0.3.4) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/static.rb:126:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.0.3.4) lib/action_dispatch/middleware/host_authorization.rb:82:in `call'
+webpacker (4.3.0) lib/webpacker/dev_server_proxy.rb:23:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (6.0.3.4) lib/rails/engine.rb:527:in `call'
+puma (4.3.7) lib/puma/configuration.rb:228:in `call'
+puma (4.3.7) lib/puma/server.rb:713:in `handle_request'
+puma (4.3.7) lib/puma/server.rb:472:in `process_client'
+puma (4.3.7) lib/puma/server.rb:328:in `block in run'
+puma (4.3.7) lib/puma/thread_pool.rb:134:in `block in spawn_thread'
+Started GET "/" for ::1 at 2020-12-10 15:13:15 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 50)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms | Allocations: 7126)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:13:16 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 50)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms | Allocations: 7111)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:13:16 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 50)
+Completed 200 OK in 34ms (Views: 33.5ms | ActiveRecord: 0.0ms | Allocations: 7119)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:13:17 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 50)
+Completed 200 OK in 33ms (Views: 33.1ms | ActiveRecord: 0.0ms | Allocations: 7117)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:13:20 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 50)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 7117)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:13:21 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 50)
+Completed 200 OK in 35ms (Views: 34.2ms | ActiveRecord: 0.0ms | Allocations: 7129)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:15:35 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 113)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.6ms | Allocations: 193)
+Completed 200 OK in 42ms (Views: 41.5ms | ActiveRecord: 0.0ms | Allocations: 8448)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:18:23 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 249.6ms | Allocations: 146828)
+Completed 500 Internal Server Error in 290ms (ActiveRecord: 0.0ms | Allocations: 155042)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `place_order_path' for #<#<Class:0x0000000006123f08>:0x0000000008fa6ad8>):
+     7: <div class="collapse navbar-collapse" id="navbarSupportedContent">
+     8: <ul class="navbar-nav mr-auto">
+     9:   <li class="nav-item active">
+    10:     <%= link_to "Place an Order", place_order_path, class: "nav-link" %> 
+    11:   </li>
+    12:   <li class="nav-item">
+    13:     <a class="nav-link" href="#">Menu</a>
+  
+app/views/layouts/_navigation.html.erb:10
+app/views/layouts/application.html.erb:13
+app/controllers/dashboards_controller.rb:4:in `create'
+Started GET "/" for ::1 at 2020-12-10 15:23:13 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 113)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 220.8ms | Allocations: 146756)
+Completed 500 Internal Server Error in 267ms (ActiveRecord: 0.0ms | Allocations: 154988)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `dashboards_path' for #<#<Class:0x000000000913d7e8>:0x0000000004a56618>):
+     7: <div class="collapse navbar-collapse" id="navbarSupportedContent">
+     8: <ul class="navbar-nav mr-auto">
+     9:   <li class="nav-item active">
+    10:     <%= link_to "Place an Order", dashboards_path, class: "nav-link" %> 
+    11:   </li>
+    12:   <li class="nav-item">
+    13:     <a class="nav-link" href="#">Menu</a>
+  
+app/views/layouts/_navigation.html.erb:10
+app/views/layouts/application.html.erb:13
+app/controllers/dashboards_controller.rb:4:in `create'
+Started GET "/" for ::1 at 2020-12-10 15:27:45 -0500
+  
+SyntaxError (C:/Users/Blake/code/Online-Order-Application/config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+  get '/place_order' to: 'dashboards#place_order'
+                     ^~):
+  
+config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+Started GET "/" for ::1 at 2020-12-10 15:30:24 -0500
+  
+SyntaxError (C:/Users/Blake/code/Online-Order-Application/config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+  get '/place_order' to: 'dashboards#place_order', a...
+                     ^~):
+  
+config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+Started GET "/" for ::1 at 2020-12-10 15:30:50 -0500
+  
+SyntaxError (C:/Users/Blake/code/Online-Order-Application/config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+  get '/place_order' to: 'dashboards#place_order'
+                     ^~):
+  
+config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+config/routes.rb:5: syntax error, unexpected tIDENTIFIER, expecting end
+Started GET "/" for ::1 at 2020-12-10 15:31:30 -0500
+  
+SyntaxError (C:/Users/Blake/code/Online-Order-Application/config/routes.rb:6: syntax error, unexpected tIDENTIFIER, expecting end
+  get '/place_order' to: 'dashboards#place_order'
+                     ^~):
+  
+config/routes.rb:6: syntax error, unexpected tIDENTIFIER, expecting end
+config/routes.rb:6: syntax error, unexpected tIDENTIFIER, expecting end
+config/routes.rb:6: syntax error, unexpected tIDENTIFIER, expecting end
