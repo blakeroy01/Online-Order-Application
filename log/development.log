@@ -1086,3 +1086,1395 @@ SyntaxError (C:/Users/Blake/code/Online-Order-Application/config/routes.rb:6: sy
 config/routes.rb:6: syntax error, unexpected tIDENTIFIER, expecting end
 config/routes.rb:6: syntax error, unexpected tIDENTIFIER, expecting end
 config/routes.rb:6: syntax error, unexpected tIDENTIFIER, expecting end
+Started GET "/" for ::1 at 2020-12-10 15:33:56 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.4ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.5ms | Allocations: 247)
+Completed 200 OK in 44ms (Views: 43.2ms | ActiveRecord: 0.0ms | Allocations: 8454)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:33:59 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.4ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 86)
+Completed 200 OK in 39ms (Views: 39.1ms | ActiveRecord: 0.0ms | Allocations: 7373)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:34:04 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 34ms (Views: 34.1ms | ActiveRecord: 0.0ms | Allocations: 7156)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:06 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 33ms (Views: 32.9ms | ActiveRecord: 0.0ms | Allocations: 7135)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:34:07 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 43ms (Views: 42.4ms | ActiveRecord: 0.0ms | Allocations: 7139)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:08 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.8ms | Allocations: 80)
+Completed 200 OK in 43ms (Views: 42.8ms | ActiveRecord: 0.0ms | Allocations: 7145)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:34:09 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 80)
+Completed 200 OK in 53ms (Views: 52.7ms | ActiveRecord: 0.0ms | Allocations: 7145)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:09 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 80)
+Completed 200 OK in 36ms (Views: 35.6ms | ActiveRecord: 0.0ms | Allocations: 7150)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:10 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 34ms (Views: 34.1ms | ActiveRecord: 0.0ms | Allocations: 7145)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:11 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms | Allocations: 7143)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:34:11 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 34ms (Views: 33.9ms | ActiveRecord: 0.0ms | Allocations: 7151)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:12 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 34ms (Views: 33.2ms | ActiveRecord: 0.0ms | Allocations: 7149)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:13 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 34ms (Views: 33.5ms | ActiveRecord: 0.0ms | Allocations: 7145)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:34:13 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 34ms (Views: 33.6ms | ActiveRecord: 0.0ms | Allocations: 7145)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:14 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 35ms (Views: 35.0ms | ActiveRecord: 0.0ms | Allocations: 7145)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:34:14 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 80)
+Completed 200 OK in 37ms (Views: 36.1ms | ActiveRecord: 0.0ms | Allocations: 7155)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:14 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 36ms (Views: 36.0ms | ActiveRecord: 0.0ms | Allocations: 7155)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:34:15 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms | Allocations: 7147)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:15 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 37ms (Views: 36.2ms | ActiveRecord: 0.0ms | Allocations: 7143)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:34:16 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 35ms (Views: 35.0ms | ActiveRecord: 0.0ms | Allocations: 7147)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:34:16 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 35ms (Views: 34.9ms | ActiveRecord: 0.0ms | Allocations: 7143)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:34:17 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 80)
+Completed 200 OK in 42ms (Views: 41.5ms | ActiveRecord: 0.0ms | Allocations: 7150)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:35:22 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 115)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.6ms | Allocations: 304)
+Completed 200 OK in 41ms (Views: 40.9ms | ActiveRecord: 0.0ms | Allocations: 8529)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:35:24 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 79)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 117)
+Completed 200 OK in 35ms (Views: 34.9ms | ActiveRecord: 0.0ms | Allocations: 7401)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:35:25 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.4ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 117)
+Completed 200 OK in 36ms (Views: 34.5ms | ActiveRecord: 0.0ms | Allocations: 7405)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:35:31 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 110)
+Completed 200 OK in 35ms (Views: 34.1ms | ActiveRecord: 0.0ms | Allocations: 7178)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:35:32 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 110)
+Completed 200 OK in 33ms (Views: 33.0ms | ActiveRecord: 0.0ms | Allocations: 7195)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:35:32 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 110)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms | Allocations: 7179)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:35:39 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 118)
+Completed 200 OK in 35ms (Views: 34.9ms | ActiveRecord: 0.0ms | Allocations: 7371)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:35:40 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 110)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms | Allocations: 7181)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:35:41 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 110)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms | Allocations: 7204)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:35:42 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 110)
+Completed 200 OK in 42ms (Views: 41.4ms | ActiveRecord: 0.0ms | Allocations: 7216)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:36:04 -0500
+  
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  
+config/routes.rb:6:in `block in <main>'
+config/routes.rb:1:in `<main>'
+Started GET "/menu" for ::1 at 2020-12-10 15:36:14 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 118)
+Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms | Allocations: 7363)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:36:16 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 110)
+Completed 200 OK in 33ms (Views: 33.0ms | ActiveRecord: 0.0ms | Allocations: 7200)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:36:16 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 110)
+Completed 200 OK in 36ms (Views: 35.8ms | ActiveRecord: 0.0ms | Allocations: 7181)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:36:17 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 110)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 7192)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:36:18 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 110)
+Completed 200 OK in 35ms (Views: 34.7ms | ActiveRecord: 0.0ms | Allocations: 7177)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:36:19 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 110)
+Completed 200 OK in 34ms (Views: 33.7ms | ActiveRecord: 0.0ms | Allocations: 7198)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:36:19 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 110)
+Completed 200 OK in 36ms (Views: 35.8ms | ActiveRecord: 0.0ms | Allocations: 7199)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:36:19 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 110)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms | Allocations: 7185)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:36:49 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 110)
+Completed 200 OK in 34ms (Views: 34.1ms | ActiveRecord: 0.0ms | Allocations: 7192)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:36:50 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.1ms | Allocations: 110)
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.0ms | Allocations: 7181)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:37:55 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.5ms | Allocations: 177)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.5ms | Allocations: 291)
+Completed 200 OK in 41ms (Views: 41.0ms | ActiveRecord: 0.0ms | Allocations: 8608)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:38:32 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.6ms | Allocations: 1032)
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms | Allocations: 2185)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check </<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Wiseguys Online Orders</title>
+  </head>
+  <body>
+    <div id="page-content">
+      <div class="container" id="home-container">
+        <div class="jumbotron text-center text-white">
+          <h1 class="display-4">Welcome to Wiseguys!</h1>
+          <p class="lead">Place an order, view our menu, and sign up to create your Wiseguys profile!</p>
+          <hr class="my-4">
+          <p>Choose any of the options.</p>
+          <p class="lead">
+            <%= link_to "Place an Order", place_order_path, class: "btn btn-primary btn-lg", href="#", role="button"%>
+          </p>
+          <p class="lead2">
+            <a class="btn btn-primary btn-lg" href="#" role="button">View Menu</a>
+          </p>
+        </div>
+      </div>
+    </div>
+      <footer id="sticky-footer" class="py-4 bg-dark text-white">
+        <div class="container text-center">
+          <small>Copyright &copy; Wiseguys</small>
+        </div>
+      </footer>
+  </body>
+</html>
+
+):
+1:    </<!DOCTYPE html>
+2:    <html lang="en" dir="ltr">
+3:      <head>
+4:        <meta charset="utf-8">
+5:        <title>Wiseguys Online Orders</title>
+6:      </head>
+7:      <body>
+8:        <div id="page-content">
+9:          <div class="container" id="home-container">
+10:            <div class="jumbotron text-center text-white">
+11:              <h1 class="display-4">Welcome to Wiseguys!</h1>
+12:              <p class="lead">Place an order, view our menu, and sign up to create your Wiseguys profile!</p>
+13:              <hr class="my-4">
+14:              <p>Choose any of the options.</p>
+15:              <p class="lead">
+16:                <%= link_to "Place an Order", place_order_path, class: "btn btn-primary btn-lg", href="#", role="button"%>
+17:              </p>
+18:              <p class="lead2">
+19:                <a class="btn btn-primary btn-lg" href="#" role="button">View Menu</a>
+20:              </p>
+21:            </div>
+22:          </div>
+23:        </div>
+24:          <footer id="sticky-footer" class="py-4 bg-dark text-white">
+25:            <div class="container text-center">
+26:              <small>Copyright &copy; Wiseguys</small>
+27:            </div>
+28:          </footer>
+29:      </body>
+30:    </html>
+  
+app/views/dashboards/homepage.html.erb:16: syntax error, unexpected ',', expecting =>
+app/views/dashboards/homepage.html.erb:16: syntax error, unexpected ',', expecting =>
+app/views/dashboards/homepage.html.erb:16: syntax error, unexpected ',', expecting =>
+app/views/dashboards/homepage.html.erb:16: syntax error, unexpected ',', expecting =>
+app/views/dashboards/homepage.html.erb:16: syntax error, unexpected ',', expecting =>
+app/views/dashboards/homepage.html.erb:16: syntax error, unexpected ',', expecting =>
+app/controllers/dashboards_controller.rb:4:in `create'
+Started GET "/" for ::1 at 2020-12-10 15:38:52 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.5ms | Allocations: 300)
+Completed 200 OK in 40ms (Views: 40.1ms | ActiveRecord: 0.0ms | Allocations: 8546)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:41:09 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.6ms | Allocations: 1084)
+Completed 500 Internal Server Error in 41ms (ActiveRecord: 0.0ms | Allocations: 9294)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <nav class="navbar navbar-expand-lg navbar-light bg-light">
+<%= link_to "Wiseguys", root_path, class: "navbar-brand", id: "logo" %>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+  <li class="nav-item active">
+    <%= link_to "Place an Order", place_order_path, class: "nav-link" %>
+  </li>
+  <li class="nav-item">
+    <%= link_to "Menu", menu_path, class: "nav-link" %>
+  </li>
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Your Profile
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+      <%= link_to "Register", register_path, class: "dropdown-item", href="x" %>
+      <a class="dropdown-item" href="#">Sign In</a>
+      <div class="dropdown-divider"></div>
+      <a class="dropdown-item" href="#">View Profile</a>
+    </div>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="#">Lake Placid, New York | Contact Us: 518-523-4446</a>
+  </li>
+</ul>
+<form class="form-inline my-2 my-lg-0">
+  <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+</form>
+</div>
+</nav>
+
+):
+1:    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+2:    <%= link_to "Wiseguys", root_path, class: "navbar-brand", id: "logo" %>
+3:    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+4:    <span class="navbar-toggler-icon"></span>
+5:    </button>
+6:    
+7:    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+8:    <ul class="navbar-nav mr-auto">
+9:      <li class="nav-item active">
+10:        <%= link_to "Place an Order", place_order_path, class: "nav-link" %>
+11:      </li>
+12:      <li class="nav-item">
+13:        <%= link_to "Menu", menu_path, class: "nav-link" %>
+14:      </li>
+15:      <li class="nav-item dropdown">
+16:        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+17:          Your Profile
+18:        </a>
+19:        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+20:          <%= link_to "Register", register_path, class: "dropdown-item", href="x" %>
+21:          <a class="dropdown-item" href="#">Sign In</a>
+22:          <div class="dropdown-divider"></div>
+23:          <a class="dropdown-item" href="#">View Profile</a>
+24:        </div>
+25:      </li>
+26:      <li class="nav-item">
+27:        <a class="nav-link disabled" href="#">Lake Placid, New York | Contact Us: 518-523-4446</a>
+28:      </li>
+29:    </ul>
+30:    <form class="form-inline my-2 my-lg-0">
+31:      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+32:      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+33:    </form>
+34:    </div>
+35:    </nav>
+  
+app/views/layouts/_navigation.html.erb:20: syntax error, unexpected ')', expecting =>
+app/views/layouts/_navigation.html.erb:38: syntax error, unexpected end, expecting ')'
+app/views/layouts/_navigation.html.erb:20: syntax error, unexpected ')', expecting =>
+app/views/layouts/_navigation.html.erb:38: syntax error, unexpected end, expecting ')'
+app/views/layouts/_navigation.html.erb:20: syntax error, unexpected ')', expecting =>
+app/views/layouts/_navigation.html.erb:38: syntax error, unexpected end, expecting ')'
+app/views/layouts/_navigation.html.erb:20: syntax error, unexpected ')', expecting =>
+app/views/layouts/_navigation.html.erb:38: syntax error, unexpected end, expecting ')'
+app/views/layouts/_navigation.html.erb:20: syntax error, unexpected ')', expecting =>
+app/views/layouts/_navigation.html.erb:38: syntax error, unexpected end, expecting ')'
+app/views/layouts/_navigation.html.erb:20: syntax error, unexpected ')', expecting =>
+app/views/layouts/_navigation.html.erb:38: syntax error, unexpected end, expecting ')'
+app/views/layouts/application.html.erb:13
+app/controllers/dashboards_controller.rb:4:in `create'
+Started GET "/" for ::1 at 2020-12-10 15:41:16 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 227.6ms | Allocations: 146916)
+Completed 500 Internal Server Error in 269ms (ActiveRecord: 0.0ms | Allocations: 155139)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `register_path' for #<#<Class:0x00000000064330e0>:0x0000000006431650>):
+    17:       Your Profile
+    18:     </a>
+    19:     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    20:       <%= link_to "Register", register_path, class: "dropdown-item" %>
+    21:       <a class="dropdown-item" href="#">Sign In</a>
+    22:       <div class="dropdown-divider"></div>
+    23:       <a class="dropdown-item" href="#">View Profile</a>
+  
+app/views/layouts/_navigation.html.erb:20
+app/views/layouts/application.html.erb:13
+app/controllers/dashboards_controller.rb:4:in `create'
+Started GET "/" for ::1 at 2020-12-10 15:41:38 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 149)
+Completed 200 OK in 45ms (Views: 44.7ms | ActiveRecord: 0.0ms | Allocations: 7336)
+
+
+Started GET "/register" for ::1 at 2020-12-10 15:41:41 -0500
+Processing by DashboardsController#register as HTML
+  Rendering dashboards/register.html.erb within layouts/application
+  Rendered dashboards/register.html.erb within layouts/application (Duration: 0.4ms | Allocations: 86)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 148)
+Completed 200 OK in 36ms (Views: 34.4ms | ActiveRecord: 0.0ms | Allocations: 7423)
+
+
+Started GET "/register" for ::1 at 2020-12-10 15:41:44 -0500
+Processing by DashboardsController#register as HTML
+  Rendering dashboards/register.html.erb within layouts/application
+  Rendered dashboards/register.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 140)
+Completed 200 OK in 33ms (Views: 32.8ms | ActiveRecord: 0.0ms | Allocations: 7226)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:41:45 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.3ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 148)
+Completed 200 OK in 35ms (Views: 33.9ms | ActiveRecord: 0.0ms | Allocations: 7418)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:41:46 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 82)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 148)
+Completed 200 OK in 35ms (Views: 34.0ms | ActiveRecord: 0.0ms | Allocations: 7425)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:41:46 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 140)
+Completed 200 OK in 35ms (Views: 34.6ms | ActiveRecord: 0.0ms | Allocations: 7206)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:42:31 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.7ms | Allocations: 410)
+Completed 200 OK in 44ms (Views: 43.2ms | ActiveRecord: 0.0ms | Allocations: 8614)
+
+
+Started GET "/register" for ::1 at 2020-12-10 15:42:34 -0500
+Processing by DashboardsController#register as HTML
+  Rendering dashboards/register.html.erb within layouts/application
+  Rendered dashboards/register.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 179)
+Completed 200 OK in 36ms (Views: 34.3ms | ActiveRecord: 0.0ms | Allocations: 7450)
+
+
+Started GET "/login" for ::1 at 2020-12-10 15:42:35 -0500
+Processing by DashboardsController#login as HTML
+  Rendering dashboards/login.html.erb within layouts/application
+  Rendered dashboards/login.html.erb within layouts/application (Duration: 0.4ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 179)
+Completed 200 OK in 35ms (Views: 33.5ms | ActiveRecord: 0.0ms | Allocations: 7458)
+
+
+Started GET "/login" for ::1 at 2020-12-10 15:43:59 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#login as HTML
+  Rendering dashboards/login.html.erb within layouts/application
+  Rendered dashboards/login.html.erb within layouts/application (Duration: 0.4ms | Allocations: 83)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 1.0ms | Allocations: 465)
+Completed 200 OK in 63ms (Views: 61.2ms | ActiveRecord: 0.0ms | Allocations: 8645)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:44:01 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 79)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 210)
+Completed 200 OK in 35ms (Views: 34.1ms | ActiveRecord: 0.0ms | Allocations: 7480)
+
+
+Started GET "/user_profile" for ::1 at 2020-12-10 15:44:02 -0500
+Processing by DashboardsController#user_profile as HTML
+  Rendering dashboards/user_profile.html.erb within layouts/application
+  Rendered dashboards/user_profile.html.erb within layouts/application (Duration: 0.3ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 210)
+Completed 200 OK in 35ms (Views: 34.2ms | ActiveRecord: 0.0ms | Allocations: 7482)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:44:04 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 210)
+Completed 200 OK in 36ms (Views: 35.7ms | ActiveRecord: 0.0ms | Allocations: 7515)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:44:04 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.4ms | Allocations: 200)
+Completed 200 OK in 36ms (Views: 36.0ms | ActiveRecord: 0.0ms | Allocations: 7287)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:44:05 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 33ms (Views: 33.1ms | ActiveRecord: 0.0ms | Allocations: 7269)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:44:25 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 210)
+Completed 200 OK in 36ms (Views: 34.7ms | ActiveRecord: 0.0ms | Allocations: 7483)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:44:26 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms | Allocations: 7297)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:44:26 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 35ms (Views: 34.6ms | ActiveRecord: 0.0ms | Allocations: 7273)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:44:27 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 34ms (Views: 33.9ms | ActiveRecord: 0.0ms | Allocations: 7298)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:44:27 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms | Allocations: 7287)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:44:29 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms | Allocations: 7293)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:44:30 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 44ms (Views: 43.2ms | ActiveRecord: 0.0ms | Allocations: 7284)
+
+
+Started GET "/register" for ::1 at 2020-12-10 15:44:34 -0500
+Processing by DashboardsController#register as HTML
+  Rendering dashboards/register.html.erb within layouts/application
+  Rendered dashboards/register.html.erb within layouts/application (Duration: 0.3ms | Allocations: 83)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 210)
+Completed 200 OK in 36ms (Views: 34.8ms | ActiveRecord: 0.0ms | Allocations: 7483)
+
+
+Started GET "/login" for ::1 at 2020-12-10 15:44:36 -0500
+Processing by DashboardsController#login as HTML
+  Rendering dashboards/login.html.erb within layouts/application
+  Rendered dashboards/login.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 35ms (Views: 34.2ms | ActiveRecord: 0.0ms | Allocations: 7276)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:44:40 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 39ms (Views: 38.4ms | ActiveRecord: 0.0ms | Allocations: 7290)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:44:43 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 36ms (Views: 35.3ms | ActiveRecord: 0.0ms | Allocations: 7261)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:51:16 -0500
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.7ms | Allocations: 458)
+Completed 200 OK in 43ms (Views: 42.5ms | ActiveRecord: 0.0ms | Allocations: 8705)
+
+
+Started GET "/register" for ::1 at 2020-12-10 15:51:22 -0500
+Processing by DashboardsController#register as HTML
+  Rendering dashboards/register.html.erb within layouts/application
+  Rendered dashboards/register.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 210)
+Completed 200 OK in 35ms (Views: 33.6ms | ActiveRecord: 0.0ms | Allocations: 7477)
+
+
+Started GET "/login" for ::1 at 2020-12-10 15:51:24 -0500
+Processing by DashboardsController#login as HTML
+  Rendering dashboards/login.html.erb within layouts/application
+  Rendered dashboards/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 210)
+Completed 200 OK in 35ms (Views: 33.7ms | ActiveRecord: 0.0ms | Allocations: 7478)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 15:51:25 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 210)
+Completed 200 OK in 35ms (Views: 33.6ms | ActiveRecord: 0.0ms | Allocations: 7480)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 15:51:26 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 79)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 210)
+Completed 200 OK in 36ms (Views: 35.1ms | ActiveRecord: 0.0ms | Allocations: 7482)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:51:27 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 200)
+Completed 200 OK in 35ms (Views: 34.1ms | ActiveRecord: 0.0ms | Allocations: 7278)
+
+
+Started GET "/" for ::1 at 2020-12-10 15:59:16 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 237.3ms | Allocations: 147131)
+Completed 500 Internal Server Error in 278ms (ActiveRecord: 0.0ms | Allocations: 155341)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `administator_path' for #<#<Class:0x000000000f7218e8>:0x000000000f72bf50>):
+    27:     <a class="nav-link disabled" href="#">Lake Placid, New York | Contact Us: 518-523-4446</a>
+    28:   </li>
+    29: </ul>
+    30: <%= link_to "Administator", administator_path, class: nav-link %>
+    31: </div>
+    32: </nav>
+  
+app/views/layouts/_navigation.html.erb:30
+app/views/layouts/application.html.erb:13
+app/controllers/dashboards_controller.rb:4:in `create'
+Started GET "/place_order" for ::1 at 2020-12-10 16:01:07 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 84)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 215.3ms | Allocations: 147088)
+Completed 500 Internal Server Error in 256ms (ActiveRecord: 0.0ms | Allocations: 155236)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `nav' for #<#<Class:0x0000000006df7b08>:0x0000000006e94890>):
+    27:     <a class="nav-link disabled" href="#">Lake Placid, New York | Contact Us: 518-523-4446</a>
+    28:   </li>
+    29: </ul>
+    30: <%= link_to "Administator", administator_path, class: nav-link %>
+    31: </div>
+    32: </nav>
+  
+app/views/layouts/_navigation.html.erb:30
+app/views/layouts/application.html.erb:13
+Started GET "/place_order" for ::1 at 2020-12-10 16:01:29 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 79)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.6ms | Allocations: 502)
+Completed 200 OK in 41ms (Views: 39.2ms | ActiveRecord: 0.0ms | Allocations: 8707)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:02:57 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 79)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.7ms | Allocations: 503)
+Completed 200 OK in 43ms (Views: 42.0ms | ActiveRecord: 0.0ms | Allocations: 8703)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 16:03:00 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 233)
+Completed 200 OK in 36ms (Views: 34.9ms | ActiveRecord: 0.0ms | Allocations: 7513)
+
+
+Started GET "/" for ::1 at 2020-12-10 16:03:04 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 233)
+Completed 200 OK in 35ms (Views: 34.8ms | ActiveRecord: 0.0ms | Allocations: 7548)
+
+
+Started GET "/" for ::1 at 2020-12-10 16:03:29 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.7ms | Allocations: 511)
+Completed 200 OK in 41ms (Views: 40.2ms | ActiveRecord: 0.0ms | Allocations: 8758)
+
+
+Started GET "/" for ::1 at 2020-12-10 16:04:18 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.7ms | Allocations: 508)
+Completed 200 OK in 42ms (Views: 41.8ms | ActiveRecord: 0.0ms | Allocations: 8751)
+
+
+Started GET "/" for ::1 at 2020-12-10 16:04:39 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.7ms | Allocations: 508)
+Completed 200 OK in 41ms (Views: 40.7ms | ActiveRecord: 0.0ms | Allocations: 8751)
+
+
+Started GET "/administator" for ::1 at 2020-12-10 16:04:48 -0500
+Processing by DashboardsController#login_admin as HTML
+  Rendering dashboards/login_admin.html.erb within layouts/application
+  Rendered dashboards/login_admin.html.erb within layouts/application (Duration: 0.3ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 241)
+Completed 200 OK in 43ms (Views: 41.8ms | ActiveRecord: 0.0ms | Allocations: 7514)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:04:50 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 84)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 241)
+Completed 200 OK in 36ms (Views: 34.3ms | ActiveRecord: 0.0ms | Allocations: 7525)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 16:04:51 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 241)
+Completed 200 OK in 38ms (Views: 36.6ms | ActiveRecord: 0.0ms | Allocations: 7513)
+
+
+Started GET "/register" for ::1 at 2020-12-10 16:04:52 -0500
+Processing by DashboardsController#register as HTML
+  Rendering dashboards/register.html.erb within layouts/application
+  Rendered dashboards/register.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 241)
+Completed 200 OK in 35ms (Views: 34.1ms | ActiveRecord: 0.0ms | Allocations: 7507)
+
+
+Started GET "/login" for ::1 at 2020-12-10 16:04:53 -0500
+Processing by DashboardsController#login as HTML
+  Rendering dashboards/login.html.erb within layouts/application
+  Rendered dashboards/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 241)
+Completed 200 OK in 36ms (Views: 34.3ms | ActiveRecord: 0.0ms | Allocations: 7508)
+
+
+Started GET "/user_profile" for ::1 at 2020-12-10 16:04:56 -0500
+Processing by DashboardsController#user_profile as HTML
+  Rendering dashboards/user_profile.html.erb within layouts/application
+  Rendered dashboards/user_profile.html.erb within layouts/application (Duration: 0.3ms | Allocations: 81)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 241)
+Completed 200 OK in 36ms (Views: 34.6ms | ActiveRecord: 0.0ms | Allocations: 7517)
+
+
+Started GET "/administator" for ::1 at 2020-12-10 16:04:57 -0500
+Processing by DashboardsController#login_admin as HTML
+  Rendering dashboards/login_admin.html.erb within layouts/application
+  Rendered dashboards/login_admin.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 230)
+Completed 200 OK in 34ms (Views: 33.4ms | ActiveRecord: 0.0ms | Allocations: 7318)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:04:58 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 230)
+Completed 200 OK in 34ms (Views: 33.9ms | ActiveRecord: 0.0ms | Allocations: 7318)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:05:27 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 79)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.6ms | Allocations: 507)
+Completed 200 OK in 41ms (Views: 39.4ms | ActiveRecord: 0.0ms | Allocations: 8716)
+
+
+Started GET "/administator" for ::1 at 2020-12-10 16:05:29 -0500
+Processing by DashboardsController#login_admin as HTML
+  Rendering dashboards/login_admin.html.erb within layouts/application
+  Rendered dashboards/login_admin.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 241)
+Completed 200 OK in 36ms (Views: 34.6ms | ActiveRecord: 0.0ms | Allocations: 7507)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:05:30 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 230)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 7311)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:08:20 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 84)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.8ms | Allocations: 626)
+Completed 200 OK in 42ms (Views: 40.9ms | ActiveRecord: 0.0ms | Allocations: 8799)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:08:38 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 79)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.7ms | Allocations: 574)
+Completed 200 OK in 41ms (Views: 39.4ms | ActiveRecord: 0.0ms | Allocations: 8782)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:09:07 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 260)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms | Allocations: 7352)
+
+
+Started GET "/" for ::1 at 2020-12-10 16:09:08 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 272)
+Completed 200 OK in 36ms (Views: 35.5ms | ActiveRecord: 0.0ms | Allocations: 7588)
+
+
+Started GET "/administator" for ::1 at 2020-12-10 16:09:11 -0500
+Processing by DashboardsController#login_admin as HTML
+  Rendering dashboards/login_admin.html.erb within layouts/application
+  Rendered dashboards/login_admin.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 272)
+Completed 200 OK in 36ms (Views: 34.5ms | ActiveRecord: 0.0ms | Allocations: 7532)
+
+
+Started GET "/administator_register" for ::1 at 2020-12-10 16:09:13 -0500
+Processing by DashboardsController#register_admin as HTML
+  Rendering dashboards/register_admin.html.erb within layouts/application
+  Rendered dashboards/register_admin.html.erb within layouts/application (Duration: 0.3ms | Allocations: 82)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 272)
+Completed 200 OK in 35ms (Views: 33.5ms | ActiveRecord: 0.0ms | Allocations: 7544)
+
+
+Started GET "/administator_register" for ::1 at 2020-12-10 16:09:27 -0500
+Processing by DashboardsController#register_admin as HTML
+  Rendering dashboards/register_admin.html.erb within layouts/application
+  Rendered dashboards/register_admin.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 260)
+Completed 200 OK in 35ms (Views: 34.8ms | ActiveRecord: 0.0ms | Allocations: 7349)
+
+
+Started GET "/administator" for ::1 at 2020-12-10 16:09:29 -0500
+Processing by DashboardsController#login_admin as HTML
+  Rendering dashboards/login_admin.html.erb within layouts/application
+  Rendered dashboards/login_admin.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 33ms (Views: 33.0ms | ActiveRecord: 0.0ms | Allocations: 7349)
+
+
+Started GET "/administator_register" for ::1 at 2020-12-10 16:09:30 -0500
+Processing by DashboardsController#register_admin as HTML
+  Rendering dashboards/register_admin.html.erb within layouts/application
+  Rendered dashboards/register_admin.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 260)
+Completed 200 OK in 34ms (Views: 34.1ms | ActiveRecord: 0.0ms | Allocations: 7338)
+
+
+Started GET "/administator_register" for ::1 at 2020-12-10 16:10:05 -0500
+Processing by DashboardsController#register_admin as HTML
+  Rendering dashboards/register_admin.html.erb within layouts/application
+  Rendered dashboards/register_admin.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 260)
+Completed 200 OK in 35ms (Views: 35.0ms | ActiveRecord: 0.0ms | Allocations: 7356)
+
+
+Started GET "/administator" for ::1 at 2020-12-10 16:10:07 -0500
+Processing by DashboardsController#login_admin as HTML
+  Rendering dashboards/login_admin.html.erb within layouts/application
+  Rendered dashboards/login_admin.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 34ms (Views: 33.4ms | ActiveRecord: 0.0ms | Allocations: 7347)
+
+
+Started GET "/administator_register" for ::1 at 2020-12-10 16:10:11 -0500
+Processing by DashboardsController#register_admin as HTML
+  Rendering dashboards/register_admin.html.erb within layouts/application
+  Rendered dashboards/register_admin.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 7356)
+
+
+Started GET "/administator_register" for ::1 at 2020-12-10 16:16:02 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#register_admin as HTML
+  Rendering dashboards/register_admin.html.erb within layouts/application
+  Rendered dashboards/register_admin.html.erb within layouts/application (Duration: 0.3ms | Allocations: 84)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.9ms | Allocations: 628)
+Completed 200 OK in 42ms (Views: 40.4ms | ActiveRecord: 0.0ms | Allocations: 8851)
+
+
+Started GET "/administator_register" for ::1 at 2020-12-10 16:16:32 -0500
+Processing by DashboardsController#register_admin as HTML
+  Rendering dashboards/register_admin.html.erb within layouts/application
+  Rendered dashboards/register_admin.html.erb within layouts/application (Duration: 0.4ms | Allocations: 79)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.8ms | Allocations: 573)
+Completed 200 OK in 42ms (Views: 40.6ms | ActiveRecord: 0.0ms | Allocations: 8766)
+
+
+Started GET "/administator_register" for ::1 at 2020-12-10 16:16:36 -0500
+Processing by DashboardsController#register_admin as HTML
+  Rendering dashboards/register_admin.html.erb within layouts/application
+  Rendered dashboards/register_admin.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 34ms (Views: 33.1ms | ActiveRecord: 0.0ms | Allocations: 7358)
+
+
+Started GET "/administator" for ::1 at 2020-12-10 16:16:37 -0500
+Processing by DashboardsController#login_admin as HTML
+  Rendering dashboards/login_admin.html.erb within layouts/application
+  Rendered dashboards/login_admin.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 272)
+Completed 200 OK in 35ms (Views: 33.9ms | ActiveRecord: 0.0ms | Allocations: 7543)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:16:38 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.3ms | Allocations: 79)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 272)
+Completed 200 OK in 36ms (Views: 34.9ms | ActiveRecord: 0.0ms | Allocations: 7550)
+
+
+Started GET "/" for ::1 at 2020-12-10 16:16:38 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.3ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 272)
+Completed 200 OK in 36ms (Views: 35.2ms | ActiveRecord: 0.0ms | Allocations: 7589)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:26:06 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 34ms (Views: 34.0ms | ActiveRecord: 0.0ms | Allocations: 7345)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 16:26:06 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 272)
+Completed 200 OK in 35ms (Views: 33.9ms | ActiveRecord: 0.0ms | Allocations: 7527)
+
+
+Started GET "/register" for ::1 at 2020-12-10 16:26:08 -0500
+Processing by DashboardsController#register as HTML
+  Rendering dashboards/register.html.erb within layouts/application
+  Rendered dashboards/register.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 272)
+Completed 200 OK in 36ms (Views: 34.8ms | ActiveRecord: 0.0ms | Allocations: 7556)
+
+
+Started GET "/login" for ::1 at 2020-12-10 16:26:09 -0500
+Processing by DashboardsController#login as HTML
+  Rendering dashboards/login.html.erb within layouts/application
+  Rendered dashboards/login.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 272)
+Completed 200 OK in 35ms (Views: 34.1ms | ActiveRecord: 0.0ms | Allocations: 7542)
+
+
+Started GET "/user_profile" for ::1 at 2020-12-10 16:26:10 -0500
+Processing by DashboardsController#user_profile as HTML
+  Rendering dashboards/user_profile.html.erb within layouts/application
+  Rendered dashboards/user_profile.html.erb within layouts/application (Duration: 0.3ms | Allocations: 78)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 272)
+Completed 200 OK in 36ms (Views: 34.9ms | ActiveRecord: 0.0ms | Allocations: 7546)
+
+
+Started GET "/administator" for ::1 at 2020-12-10 16:26:13 -0500
+Processing by DashboardsController#login_admin as HTML
+  Rendering dashboards/login_admin.html.erb within layouts/application
+  Rendered dashboards/login_admin.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 41ms (Views: 40.9ms | ActiveRecord: 0.0ms | Allocations: 7346)
+
+
+Started GET "/administator_register" for ::1 at 2020-12-10 16:26:14 -0500
+Processing by DashboardsController#register_admin as HTML
+  Rendering dashboards/register_admin.html.erb within layouts/application
+  Rendered dashboards/register_admin.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.0ms | Allocations: 7345)
+
+
+Started GET "/" for ::1 at 2020-12-10 16:58:18 -0500
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 260)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 7319)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:58:33 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 7352)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 16:58:35 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms | Allocations: 7353)
+
+
+Started GET "/menu" for ::1 at 2020-12-10 16:58:42 -0500
+Processing by DashboardsController#menu as HTML
+  Rendering dashboards/menu.html.erb within layouts/application
+  Rendered dashboards/menu.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms | Allocations: 7349)
+
+
+Started GET "/place_order" for ::1 at 2020-12-10 16:58:42 -0500
+Processing by DashboardsController#place_order as HTML
+  Rendering dashboards/place_order.html.erb within layouts/application
+  Rendered dashboards/place_order.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.3ms | Allocations: 260)
+Completed 200 OK in 36ms (Views: 35.1ms | ActiveRecord: 0.0ms | Allocations: 7350)
+
+
+Started GET "/" for ::1 at 2020-12-10 16:58:43 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 35ms (Views: 34.2ms | ActiveRecord: 0.0ms | Allocations: 7331)
+
+
+Started GET "/" for ::1 at 2020-12-10 16:59:01 -0500
+Processing by DashboardsController#create as HTML
+  Rendering dashboards/homepage.html.erb within layouts/application
+  Rendered dashboards/homepage.html.erb within layouts/application (Duration: 0.0ms | Allocations: 4)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_navigation.html.erb (Duration: 0.2ms | Allocations: 260)
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.0ms | Allocations: 7333)
+
+

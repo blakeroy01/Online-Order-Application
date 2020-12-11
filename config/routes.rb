@@ -8,5 +8,7 @@ Rails.application.routes.draw do
   get '/register', to: 'dashboards#register'
   get '/login', to: 'dashboards#login'
   get '/user_profile', to: 'dashboards#user_profile'
+  get '/administator', to: 'dashboards#login_admin'
+  get '/administator_register', to: 'dashboards#register_admin'
 
 end
